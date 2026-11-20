@@ -1,7 +1,7 @@
 name: CInvMenu
 version: '${project.version}'
 main: com.cinvmenu.CInvMenu
-api-version: '1.20'
+api-version: '1.21'
 author: PluginDeveloper
 description: Creative-style item menu for selected Survival players
 commands:
